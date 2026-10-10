@@ -1,0 +1,10 @@
+{
+  "name": "mini-nursing-portal",
+  "version": "1.0.0",
+  "description": "ShiftSync Integrated Nursing Hospital Portal",
+  "scripts": {
+    "start": "node backend/server.js",
+    "build": "cd frontend && npm run build",
+    "dev": "node backend/server.js"
+  }
+}
